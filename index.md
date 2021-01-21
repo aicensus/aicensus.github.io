@@ -37,9 +37,13 @@ We are a multidisplinary team of 5 members:
 ----------
 
 # Iberia Camera Trap Project #
-| | |
-|-------------------------|-------------------------|
-|<img src="https://panoptes-uploads.zooniverse.org/user_avatar/1c53ea16-0143-46bc-8f80-eb1ad8c91a82.jpeg" width="300"> |  **Implementation of the Automatic Census and Biodiversity Monitoring System in the Iberian Peninsula using Artificial Intelligence**|
+<p align="center">
+  <img src="https://panoptes-uploads.zooniverse.org/user_avatar/1c53ea16-0143-46bc-8f80-eb1ad8c91a82.jpeg" width="300"/> 
+</p>
+
+<p align="center">
+  <b><i>Implementation of the Automatic Census and Biodiversity Monitoring System in the Iberian Peninsula using Artificial Intelligence</i></b> <br><br><br>
+</p>
 
 - Zooniverse project: [https://www.zooniverse.org/projects/aicensusuhu/iberian-camera-trap-project](https://www.zooniverse.org/projects/aicensusuhu/iberian-camera-trap-project)
 - Twitter account: [https://twitter.com/iberiancamtrap](https://twitter.com/iberiancamtrap)
