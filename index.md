@@ -1,4 +1,4 @@
-# AI Census Team
+# Iberian Camera Trap Team
 If you want to contact us, write to us at [aicensusuhu@gmail.com](mailto:aicensusuhu@gmail.com).
 
 We are a multidisplinary team of 5 members:
