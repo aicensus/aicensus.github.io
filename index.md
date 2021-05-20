@@ -20,7 +20,7 @@ We are a multidisplinary team of 5 members:
 
 |<img src="https://panoptes-uploads.zooniverse.org/production/project_attached_image/01c6b102-7e5b-4f3f-8511-f0c7243bcdec.jpeg" width="300"> |  **Ecologist**|
 |-------------------------|-------------------------|
-|[simonesantoro77@gmail.com](mailto:simone.santoro@dci.uhu.es) | Simone holds a Ph.D. degree in Ecology and a degree in Biology. He works on topics related to Population and Evolutionary Ecology and Host-Pathogen Dynamics. Data in Ecology contain a great deal of uncertainty due, for the most part, to poor animals' detectability. Knowledge of appropriate quantitative methods is, therefore, essential for the experimental design and analysis of data on wildlife surveillance. A common denominator of his scientific activity is the use of state-of-the-art statistical methods capable of addressing the imperfect detectability of animals to investigate spatial-temporal variations in ecological processes.|
+|[simone.santoro@dci.uhu.es](mailto:simone.santoro@dci.uhu.es) | Simone holds a Ph.D. degree in Ecology and a degree in Biology. He works on topics related to Population and Evolutionary Ecology and Host-Pathogen Dynamics. Data in Ecology contain a great deal of uncertainty due, for the most part, to poor animals' detectability. Knowledge of appropriate quantitative methods is, therefore, essential for the experimental design and analysis of data on wildlife surveillance. A common denominator of his scientific activity is the use of state-of-the-art statistical methods capable of addressing the imperfect detectability of animals to investigate spatial-temporal variations in ecological processes.|
 
 ## Diego Marín
 
