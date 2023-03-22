@@ -32,7 +32,7 @@ We are a multidisplinary team:
 
 |<img src="https://panoptes-uploads.zooniverse.org/project_attached_image/97939611-c9f4-4cc9-bcf4-ee12d9cb9802.jpeg" width="300"> |  **Computer Science Student**|
 |-------------------------|-------------------------|
-|[santiago.zapata@alu.uhu.es](mailto:santiago.zapata@alu.uhu.es) | Alba is a last-year Computer Science Student at the Universidad de Huelva. She is interested in Artificial Intelligence. Since her second year of studies, she has collaborated in research about Machine Learning. Her current interests focus on Deep Learning and Computer Vision.|
+|[alba.marquez139@alu.uhu.es](mailto:alba.marquez139@alu.uhu.es) | Alba is a last-year Computer Science Student at the Universidad de Huelva. She is interested in Artificial Intelligence. Since her second year of studies, she has collaborated in research about Machine Learning. Her current interests focus on Deep Learning and Computer Vision.|
 
 ## Diego Marín
 
