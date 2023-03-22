@@ -14,25 +14,37 @@ We are a multidisplinary team:
 
 |<img src="https://panoptes-uploads.zooniverse.org/production/project_attached_image/01c6b102-7e5b-4f3f-8511-f0c7243bcdec.jpeg" width="300"> |  **Ecologist**|
 |-------------------------|-------------------------|
-|[simone.santoro@dci.uhu.es](mailto:simone.santoro@dci.uhu.es) | Simone holds a Ph.D. degree in Ecology and a degree in Biology. He works on topics related to Population and Evolutionary Ecology and Host-Pathogen Dynamics. Data in Ecology contain a great deal of uncertainty due, for the most part, to poor animals' detectability. Knowledge of appropriate quantitative methods is, therefore, essential for the experimental design and analysis of data on wildlife surveillance. A common denominator of his scientific activity is the use of state-of-the-art statistical methods capable of addressing the imperfect detectability of animals to investigate spatial-temporal variations in ecological processes.|
+|[simone.santoro@dci.uhu.es](mailto:simone.santoro@dci.uhu.es) | Simone holds a PhD degree in Ecology and a degree in Biology. He works on topics related to Population and Evolutionary Ecology and Host-Pathogen Dynamics. Data in Ecology contain a great deal of uncertainty due, for the most part, to poor animals' detectability. Therefore, knowledge of appropriate quantitative methods is essential for the experimental design and analysis of data on wildlife surveillance. A common denominator of his scientific activity is the use of state-of-the-art statistical methods capable of addressing the imperfect detectability of animals to investigate spatial-temporal variations in ecological processes.|
 
-## Manuel Emilio Gegúndez
+## Manuel Emilio Gegúndez Arias
 
 |<img src="https://panoptes-uploads.zooniverse.org/production/project_attached_image/732996ec-40fa-40ab-9ceb-4934fa3fa2b8.jpeg" width="300"> |  **Computer vision expert**|
 |-------------------------|-------------------------|
-|[gegundez@uhu.es](mailto:gegundez@uhu.es) | Manuel received his Ph.D. degree in Mathematics in 1999. Since 2001, he has been a lecturer at the Department of Mathematics at the University of Huelva. His current research interests include digital image processing and system modeling.|
+|[gegundez@uhu.es](mailto:gegundez@uhu.es) | Manuel received his PhD degree in Mathematics in 1999. Since 2001, he has been a lecturer at the Department of Mathematics at the University of Huelva. His current research interests include digital image processing and system modelling.|
+
+## Santiago Gutiérrez Zapata
+
+|<img src="https://panoptes-uploads.zooniverse.org/project_attached_image/58813a7a-f5e6-4082-b6c9-60afe9fa6abd.jpeg" width="300"> |  **Biologist**|
+|-------------------------|-------------------------|
+|[santiago.zapata@alu.uhu.es](mailto:santiago.zapata@alu.uhu.es) | Santiago has a degree in biology and is interested in the monitoring and ecological study of mammals. He has a master's degree in biodiversity conservation. He currently works on camera trap data for monitoring the Doñana National Park mammals.|
+
+## Alba Márquez-Rodríguez
+
+|<img src="https://panoptes-uploads.zooniverse.org/project_attached_image/97939611-c9f4-4cc9-bcf4-ee12d9cb9802.jpeg" width="300"> |  **Computer Science Student**|
+|-------------------------|-------------------------|
+|[santiago.zapata@alu.uhu.es](mailto:santiago.zapata@alu.uhu.es) | Alba is a last-year Computer Science Student at the Universidad de Huelva. She is interested in Artificial Intelligence. Since her second year of studies, she has collaborated in research about Machine Learning. Her current interests focus on Deep Learning and Computer Vision.|
 
 ## Diego Marín
 
 |<img src="https://panoptes-uploads.zooniverse.org/production/project_attached_image/3c18624e-5bf0-426a-a9dd-3622eb5c7770.jpeg" width="300"> |  **Computer vision expert**|
 |-------------------------|-------------------------|
-|[diego.marin@diesia.uhu.es](mailto:diego.marin@diesia.uhu.es) | Diego received the B.S. Degree in Physics from the University of Sevilla (Spain) in 1995 and a Ph.D. in Physics from the Complutense University of Madrid (Spain) in 2003. Since that year, he has been a lecturer at the Department of Electronic, Computer Science and Automatic Engineering at the University of Huelva (Spain). His current research interests focus on digital image processing, artificial vision and machine learning. This activity includes the management of various public and private funding projects.|
+|[diego.marin@diesia.uhu.es](mailto:diego.marin@diesia.uhu.es) | Diego received a B.S. Degree in Physics from the University of Sevilla (Spain) in 1995 and a PhD in Physics from the Complutense University of Madrid (Spain) in 2003. Since that year, he has been a lecturer at the Department of Electronic, Computer Science and Automatic Engineering at the University of Huelva (Spain). His current research interests focus on digital image processing, artificial vision and machine learning. This activity includes the management of various public and private funding projects.|
 
 ## Isaac Pérez
 
 |<img src="https://panoptes-uploads.zooniverse.org/production/project_attached_image/afb7b8ab-439d-4115-884d-b8a60f015ddd.jpeg" width="300"> |  **Deep learning expert**|
 |-------------------------|-------------------------|
-|[isaac.perez@dci.uhu.es](mailto:isaac.perez@dci.uhu.es) | Isaac is a computer engineer who is passionate about Artificial Intelligence. He holds an MSc in Big Data and Cloud Computing and has significant experience in deep learning. His studies concentrate primarily on image processing using deep learning techniques to address issues related to classification, segmentation and detection. He has successfully applied these techniques to fields as diverse as medicine, agriculture, industry and, ultimately, ecology.|
+|[isaac.perez@dci.uhu.es](mailto:isaac.perez@dci.uhu.es) | Isaac is a computer engineer who is passionate about Artificial Intelligence. He holds an MSc in Big Data and Cloud Computing and has significant experience in deep learning. His studies concentrate primarily on image processing using deep learning techniques to address classification, segmentation and detection issues. He has successfully applied these techniques to fields as diverse as medicine, agriculture, industry and ecology. He worked on this project until October 2021.|
 
 ----------
 
