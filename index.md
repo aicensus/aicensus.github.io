@@ -34,6 +34,12 @@ We are a multidisplinary team:
 |-------------------------|-------------------------|
 |[alba.marquez139@alu.uhu.es](mailto:alba.marquez139@alu.uhu.es) | Alba is a last-year Computer Science Student at the Universidad de Huelva. She is interested in Artificial Intelligence. Since her second year of studies, she has collaborated in research about Machine Learning. Her current interests focus on Deep Learning and Computer Vision.|
 
+## Cristian Díaz Martín
+
+|<img src="https://panoptes-uploads.zooniverse.org/project_attached_image/21eb3f57-8331-4a74-840f-cb09a519c532.jpeg" width="300"> |  **Electronic engineer**|
+|-------------------------|-------------------------|
+|[cristian.diaz@diesia.uhu.es](mailto:cristian.diaz@diesia.uhu.es) | Cristian has a degree in Industrial Electronic Engineering and is interested in monitoring, tracking and control of biodiversity in real-time. He has a master’s degree in Industrial Engineering and is a PhD student at the University of Huelva. He is working on integrating remote sensors, IoT technologies and Artificial Intelligence. Within this project, he has developed new cost-effective prototypes of camera traps capable of detecting movement, classifying the species *in situ* and sending the picture and label via wifi or GSM.|
+
 ## Diego Marín
 
 |<img src="https://panoptes-uploads.zooniverse.org/production/project_attached_image/3c18624e-5bf0-426a-a9dd-3622eb5c7770.jpeg" width="300"> |  **Computer vision expert**|
